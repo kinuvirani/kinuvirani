@@ -11,9 +11,9 @@
 
 ### 📫Skills
 - 💻  **Programming Languages:** Python, Flask, PHP, Typescript, Javascript, HTML, CSS, JSON, SQL
-- 📊 **Libraries/Frameworks:**  Node.js, React.js, Express.js, Feathers.js, GraphQL, Redux, REST APIs
-- 📈 **Version Control:**  Git, Github, Gitlab, Bitbucket
-- 🏗️ **Cloud and DevOps:** AWS EC2, ECS, GCP, Heroku, Docker, Jenkins, Nginx, CI/CD, Microsoft Azure,
+- 📚 **Libraries/Frameworks:**  Node.js, React.js, Express.js, Feathers.js, GraphQL, Redux, REST APIs
+- 🔗 **Version Control:**  Git, Github, Gitlab, Bitbucket
+- ☁️ **Cloud and DevOps:** AWS EC2, ECS, GCP, Heroku, Docker, Jenkins, Nginx, CI/CD, Microsoft Azure,
 Kubernetes, Docker swarm, Bash, Linux Commands
 - 🛢️ **Database:** MySQL, PostgreSQL, MongoDb
 - 📂 **Software Methodologies:** Agile Model, SDLC, Test Driven Development
